@@ -1,9 +1,8 @@
-package SWW2;
+package WEEK4;
 
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.lang.Math.*;
 
 public class TCPServerArea {
     public static void main(String[] args) throws Exception {

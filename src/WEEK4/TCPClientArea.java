@@ -1,4 +1,4 @@
-package SWW2;
+package WEEK4;
 import java.net.*;
 import java.io.*;
 import java.util.Scanner;
